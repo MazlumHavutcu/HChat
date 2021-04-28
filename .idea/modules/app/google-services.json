@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "586566559541",
+    "project_id": "hchat-a5227",
+    "storage_bucket": "hchat-a5227.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586566559541:android:5fdef13546e8061b7ace7c",
+        "android_client_info": {
+          "package_name": "com.example.hchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586566559541-985jjtsevvf8ff1i59pld0rk591u2nc7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hchat",
+            "certificate_hash": "544bb7cc7d324e97f11f745e70b9a124eceae8ca"
+          }
+        },
+        {
+          "client_id": "586566559541-sbtitu7a3q9q2qlcg81lgo3r4ccq9uoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv-h17AtS9RBNi1FZQ8f2_toBnS_8SFyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586566559541-sbtitu7a3q9q2qlcg81lgo3r4ccq9uoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
